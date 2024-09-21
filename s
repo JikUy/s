@@ -15,5 +15,7 @@ Because of;
   - Script is hard to understand
     - Specz was created a long time ago, i was younger and i was not that experienced in scripting. My script wasn't that organized.
 
-You can still download Specz. Source code will be published.
+You can still download Specz. Source code will be published. (71 files)
 (If you use it please credit me ❤)
+
+⚠ DOWNLOAD: https://github.com/JikUy/s/tree/1a7f164f747467ff2156cc45fa01db9b27b286e3/Specz
