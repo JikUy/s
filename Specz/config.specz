@@ -1,0 +1,21 @@
+if "specz.bat", "specz.exe", "specz.specz" $co = "" go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = " " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "  " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "    " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "     " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "      " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "       " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "        " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "         " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "          " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "           " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "            " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "             " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "              " go $7
+if "specz.bat", "specz.exe", "specz.specz" $co = "               " go $7
+if "specz.bat", "specz.exe", "specz.specz" $prefix = "$prefix" go $7
+else = $co go $8
+$7
+quit/all = "specz.bat", "specz.exe", "specz.specz"
+$8 
+$co = tech

@@ -1,0 +1,3 @@
+load = config.axio /im /f $lib.axio 
+load = config.axio /i /f $ "axio.bat", "axio.exe", "axio.axio"
+log /t 00:s = "config.axio loaded"
